@@ -59,3 +59,23 @@
     margin-top: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.about-image{
+    width: 300px;
+}
+.about-heading{
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about-paragraph{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
